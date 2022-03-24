@@ -14,27 +14,33 @@
       <a href="https://medium.com/@estrada.mando7" >
      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-    
+    </div>
     
     
     
    ---
-   :man_technologist: About Me 
+##   :man_technologist: About Me 
     
    ## Full Stack Engineer with extensive experience in customer service.
-    A self-starter who can effectively manage numerous projects simultaneously, 
-    meeting daring deadlines, and who thrives in a dynamic environment.
-    As a leader, I directly managed 15 - 100 staff. I nurture talent
-    driving and achieving results through my team. As a bar manager.
-    I Increased revenue by 15%, amounting to 60 k per year, from 2018-2020. 
-    I recently accomplished a 600 + Full Stack Coding Bootcamp,
-    from the University of California San Diego, where I was educated on practical software development.
-    Focused on JavaScript, React.js. HTML, CSS, Node.JS, MongoDB, MYSQL, and data structures.
-    I am now looking to apply what I’ve learned into a challenging positionthat will
-    both expand my skills as a Full Stack Engineer, and create an exceptional experience for end users. Fluent in English and Spanish.
-
+-  📖: Enjoy reading and learning new technical content. 
+    
+-  🖥️: In my free time I like lifting weights, traveling, and eating out at new restaurants
+    
+- 📬: You can reach me @ [![Linkedin Badge](https://img.shields.io/badge/-Armando-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armando-estrada/)
+    
+    
+    ---
+    
+    ### 🛠️: Languages and Tools :
+    <div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+      
+      
+    </div>
 <!--
-**Mando619/Mando619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mando619/Mando619** is a ✨ _sp ecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
