@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -10,6 +10,7 @@
       <a href="https://medium.com/@estrada.mando7" >
      <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+   
 <!--
 **Mando619/Mando619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
