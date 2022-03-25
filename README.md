@@ -43,8 +43,20 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" **alt="Mongodb" width="50" height="50"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" **alt="VS" width="70" height="70"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="50" height="50"/>
-
     </div>
+  
+  
+  ---
+  
+  ### :electron: My Stats:
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mando619&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mando619)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
 <!--
 **Mando619/Mando619** is a ✨ _sp ecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
